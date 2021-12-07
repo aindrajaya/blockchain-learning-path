@@ -15,3 +15,5 @@ work in progress, please open an issue or send a pull request to help improving 
 ## Pre-Requisites
 Besides a programming background, this path assumes that the reader is at least a little comfortable
 with:
+- Public key cryptography
+  1. Watch [Public Key Cryptography](https://www.youtube.com/watch?v=GSIDS_lvRv4). (Est. time: 7 minutes)
