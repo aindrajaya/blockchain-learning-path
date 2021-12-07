@@ -17,3 +17,6 @@ Besides a programming background, this path assumes that the reader is at least 
 with:
 - Public key cryptography
   1. Watch [Public Key Cryptography](https://www.youtube.com/watch?v=GSIDS_lvRv4). (Est. time: 7 minutes)
+- Digital signatures
+  1. Read [Cryptography Digital Signitures](https://www.tutorialspoint.com/cryptography/cryptography_digital_signatures.htm). (Est. time: 10 minutes)r
+  2. Watch [What ae Digital Signatures and How Do They Work?](https://www.youtube.com/watch?v=JR4_RBb8A9Q) (Est. time: 3 minutes)
