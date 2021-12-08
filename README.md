@@ -26,3 +26,7 @@ with:
 
 ## Blockchain Fundamentals
 This learning path section is focus on the how you can figuring it out on how the process under the hood that run in the most of Blockchain system.
+
+### Blockchain
+1. Read [Blockchain Explained](https://www.investopedia.com/terms/b/blockchain.asp). (Est.time: 26 minutes)
+2. Watch [Blockchain - A visual demo](https://www.youtube.com/watch?v=_160oMzblY8). (Est. time: 18 minutes)
