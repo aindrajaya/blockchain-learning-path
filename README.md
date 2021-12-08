@@ -22,3 +22,7 @@ with:
   2. Watch [What ae Digital Signatures and How Do They Work?](https://www.youtube.com/watch?v=JR4_RBb8A9Q) (Est. time: 3 minutes)
 - Cryptographic hashing
   1. Watch [What is Hashing on the Blockchain?](https://www.youtube.com/watch?v=IGSB9zoSx70) (Est. time: 5 minutes)
+
+
+## Blockchain Fundamentals
+This learning path section is focus on the how you can figuring it out on how the process under the hood that run in the most of Blockchain system.
