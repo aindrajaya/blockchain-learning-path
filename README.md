@@ -35,3 +35,8 @@ This learning path section is focus on the how you can figuring it out on how th
 1. Read [How the Bitcoin protocol actually works](http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/). (Est. time: 45 minutes)
 2. Watch [this video](https://www.youtube.com/watch?v=bBC-nXj3Ng4) (lighter than the previous
    article but useful to solidify your knowledge). (Est. time: 26 minutes)
+
+### Ethereum
+Ethereum is open access to digital money and data-friendly services for everyone – no matter your background or location. It's a community-built technology behind the cryptocurrency ether (ETH) and thousands of applications you can use today.
+1. Ethereum Docs
+2. Ethereum Tutorial
