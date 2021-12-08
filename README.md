@@ -42,4 +42,12 @@ Ethereum is open access to digital money and data-friendly services for everyone
 2. [Ethereum Tutorial](https://ethereum.org/en/developers/tutorials/)
 
 ## Blockchain Developer
-For the people who want to become Blockchain developer you can follow this learning path section. This section will be focus on many types of Developer, there are the Core Blockchain Developer, Blockchain Smart Contract Developer, and also Frontend Blockchain Developer. 
+For the people who want to become Blockchain Developer you can follow this learning path section. This section will be focus on many types of Developer, there are the Core Blockchain Developer, Blockchain Smart Contract Developer, and also Frontend Blockchain Developer. 
+
+### Core Blockchain Developer
+### Blockchain Smart Contract Developer
+### Frontend Blockchain Developer
+### Blockchain NFT Developer
+### Blockchain Audit/Security Developer
+### Blockchain DeFi Developer
+### Another Roles (To be Explored) ...
