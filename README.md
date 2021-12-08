@@ -38,5 +38,5 @@ This learning path section is focus on the how you can figuring it out on how th
 
 ### Ethereum
 Ethereum is open access to digital money and data-friendly services for everyone – no matter your background or location. It's a community-built technology behind the cryptocurrency ether (ETH) and thousands of applications you can use today.
-1. Ethereum Docs
-2. Ethereum Tutorial
+1. [Ethereum Docs](https://ethereum.org/en/developers/docs/)
+2. [Ethereum Tutorial](https://ethereum.org/en/developers/tutorials/)
