@@ -52,6 +52,9 @@ This section will focus on these developers who focus on the architecture develo
     3. P2P Network Implementation in Blockcahin
     4. Tokenomics
     5. etc...
+- Job Duties
+- Salary Range/Expectations
+- Jobs
 
 ### Blockchain Smart Contract Developer
 ### Frontend Blockchain Developer
