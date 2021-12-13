@@ -66,6 +66,9 @@ This section will focus on how Developer understands and knows deeply what Smart
     5. Blockchain Basic Security (Avoid smart contract attacker)
     6. Tokens (Fungible and Non-Fungible Token)
     7. Scalability (Layer 2 Development/ Sidechain Development such as BSC/Binance Smartchain, Polkadot, Polygon, Solana, Aavelance, etc.)
+- Job Duties
+- Salary Range/Expectations
+- Jobs
 
 ### Frontend Blockchain Developer
 ### Blockchain NFT Developer
