@@ -57,6 +57,8 @@ This section will focus on these developers who focus on the architecture develo
 - Jobs
 
 ### Blockchain Smart Contract Developer
+This section will focus on how Developer understands and knows deeply what Smart Contracts is and how to create them wisely over any Blockchain platform by programming it over Solidity.
+
 ### Frontend Blockchain Developer
 ### Blockchain NFT Developer
 ### Blockchain Audit/Security Developer
