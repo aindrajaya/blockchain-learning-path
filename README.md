@@ -46,6 +46,12 @@ For the people who want to become Blockchain Developer you can follow this learn
 
 ### Core Blockchain Developer
 This section will focus on these developers who focus on the architecture development of a blockchain system. They design their consensus protocol and make most of the vital decisions related to blockchain. They supervise the network and design the architecture of the same.
+- What should you learn
+    1. Blockchain Architect Strcuture
+    2. Blockchaon History 
+    3. P2P Network Implementation in Blockcahin
+    4. Tokenomics
+    5. etc...
 
 ### Blockchain Smart Contract Developer
 ### Frontend Blockchain Developer
