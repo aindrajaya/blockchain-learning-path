@@ -71,6 +71,8 @@ This section will focus on how Developer understands and knows deeply what Smart
 - Jobs
 
 ### Frontend Blockchain Developer
+This section will be focus on how to use web3 as the idea for a new iteration of the World Wide Web that incorporates decentralization based on blockchains to implemented on our frontend application by using JavaScript (React, Svelte, or Vanilla JavaScript)
+
 ### Blockchain NFT Developer
 ### Blockchain Audit/Security Developer
 ### Blockchain DeFi Developer
