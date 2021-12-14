@@ -76,6 +76,9 @@ This section will be focus on how to use web3 as the idea for a new iteration of
     1. Web3.js (You can directly using ReactJS)
     2. ReactJS/Svelte/Vanilla Javascipt (Any other frontend frameworks)
     3. ...
+- Job Duties
+- Salary Range/Expectations
+- Jobs 
 
 
 ### Blockchain NFT Developer
