@@ -82,6 +82,8 @@ This section will be focus on how to use web3 as the idea for a new iteration of
 
 
 ### Blockchain NFT Developer
+This section more focus on the NFT (Non-fungible Token)
+
 ### Blockchain Audit/Security Developer
 ### Blockchain DeFi Developer
 ### Another Roles (To be Explored) ...
