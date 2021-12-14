@@ -72,6 +72,11 @@ This section will focus on how Developer understands and knows deeply what Smart
 
 ### Frontend Blockchain Developer
 This section will be focus on how to use web3 as the idea for a new iteration of the World Wide Web that incorporates decentralization based on blockchains to implemented on our frontend application by using JavaScript (React, Svelte, or Vanilla JavaScript)
+- What should you learn
+    1. Web3.js (You can directly using ReactJS)
+    2. ReactJS/Svelte/Vanilla Javascipt (Any other frontend frameworks)
+    3. ...
+
 
 ### Blockchain NFT Developer
 ### Blockchain Audit/Security Developer
