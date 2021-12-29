@@ -57,6 +57,19 @@ This section will focus on these developers who focus on the architecture develo
 - Jobs
 
 ### Blockchain Smart Contract Developer
+This section will focus on how Developer understands and knows deeply what Smart Contracts is and how to create them wisely over any Blockchain platform by programming it over Solidity.
+- What should you learn
+    1. Ethereum Environment (EVM, Bytecode, Testnet/Mainnet)
+    2. Developer Tools (Truffle Ganache, or Hardhat)
+    3. Solidity Syntax
+    4. Web3 Integration (usually using NodeJS to create an API Gateway)
+    5. Blockchain Basic Security (Avoid smart contract attacker)
+    6. Tokens (Fungible and Non-Fungible Token)
+    7. Scalability (Layer 2 Development/ Sidechain Development such as BSC/Binance Smartchain, Polkadot, Polygon, Solana, Aavelance, etc.)
+- Job Duties
+- Salary Range/Expectations
+- Jobs
+
 ### Frontend Blockchain Developer
 ### Blockchain NFT Developer
 ### Blockchain Audit/Security Developer
